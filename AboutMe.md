@@ -1,7 +1,7 @@
 ## About Me
-<p>Name:</p>
-<p>Preferred Name:</p>
-<p>Grade Level:</p>
+<p>Name: Ismael </p>
+<p>Preferred Name:Ismael</p>
+<p>Grade Level:12 </p>
 <p>Email:</p>
 <p>Computer Science Courses Taken:</p>
 <p>Computer Science Interest Areas:</p>
